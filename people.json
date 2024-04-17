@@ -1,0 +1,17 @@
+[{
+  "name": "Stefan",
+  "alter": 21,
+  "hobbies": ["Fussball", "Schwimmen", "Lesen"],
+  "kennt_json": true
+},
+{
+  "name": "Max",
+  "alter": 22,
+  "kennt_json": false,
+  "adresse": {
+    "strasse" : "Musterstrasse",
+    "hausnummer" : 1,
+    "plz": 12345
+  }
+}]
+
